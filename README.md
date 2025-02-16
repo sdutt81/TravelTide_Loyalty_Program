@@ -56,6 +56,6 @@ TravelTide, a top-tier travel service provider, is considering introducing a loy
 
 * **Actionable Insights:** Providing strategic recommendations for TravelTide, including potential tiered loyalty structures and bundled benefits.
 
-[Notebook](https://colab.research.google.com/drive/19mPKLUYaLAbvZnSPibV3B7QrCiA1h6tD?usp=sharing)
-[SQL](https://drive.google.com/file/d/1phL8aWMU7glyEgIP--qZ3EoiM4uxnjQl/view?usp=sharing)
-[travel_tide_dataset.csv file](https://docs.google.com/spreadsheets/d/1-NzD9-0eRO14dfEkRgpsM3W6Q8S5xhpqqB-OMnvu5Ko/edit?usp=sharing)
+[Notebook](https://colab.research.google.com/drive/19mPKLUYaLAbvZnSPibV3B7QrCiA1h6tD?usp=sharing) <br>
+[SQL](https://drive.google.com/file/d/1phL8aWMU7glyEgIP--qZ3EoiM4uxnjQl/view?usp=sharing) <br>
+[travel_tide_dataset.csv file](https://docs.google.com/spreadsheets/d/1-NzD9-0eRO14dfEkRgpsM3W6Q8S5xhpqqB-OMnvu5Ko/edit?usp=sharing) <br>
