@@ -7,8 +7,8 @@ Welcome to the TravelTide Customer Classification & Loyalty Program repository! 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install airportsdata and haversine.
 
 ```bash
-!pip install airportsdata pycountry
-!pip install haversine
+pip install airportsdata pycountry
+pip install haversine
 ```
 
 ## Usage
@@ -32,6 +32,13 @@ def calculate_haversine(row):
     return np.nan
 
 ```
+
+## Dependencies
+
+* pandas
+* numpy
+* matplotlib
+* seaborn
 
 ## Project Summary
 
